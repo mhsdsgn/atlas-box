@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Atlas Box - macOS Launchpad & Dock",
+  "short_name": "Atlas Box",
+  "version": "1.0.0",
+  "description": "Substitui a Nova Guia por um launcher estilo macOS Launchpad com Dock de Super Favoritos.",
+  "permissions": [
+    "bookmarks",
+    "storage",
+    "favicon"
+  ],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_title": "Atlas Box Nova Guia"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

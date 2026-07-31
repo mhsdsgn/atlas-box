@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Box - macOS Launchpad & Dock",
+  "description": "Substitui a Nova Guia do navegador por um launcher estilo macOS Launchpad com Dock de Super Favoritos e sincronização de favoritos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
